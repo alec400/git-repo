@@ -1,3 +1,4 @@
-print("Goodbye world!");
-print("Goodbye sea!");
-print("Goodbye moon!");
+<<<<<<< HEAD
+print("Goodbye world! master");
+print("Goodbye sea! master");
+print("Goodbye moon! master");

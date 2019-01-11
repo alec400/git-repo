@@ -1,4 +1,9 @@
-print("Hello world!");
-print("Hello sea!");
-print("Hello dear!");
-print("Hello sun!");
+
+print("Hello world! master");
+print("Hello sea! master");
+print("Hello dear master!");
+print("Hello sun! master");
+=======
+print("Hello world!master");
+print("Hello sea!")master;
+
