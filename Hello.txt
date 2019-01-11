@@ -1,3 +1,4 @@
 print("Hello world!");
 print("Hello sea!");
 print("Hello dear!");
+print("Hello sun!");
