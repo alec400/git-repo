@@ -1,1 +1,2 @@
-goodbye world
+print("Goodbye world!");
+print("Goodbye sea!");
